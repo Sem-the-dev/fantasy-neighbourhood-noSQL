@@ -1,0 +1,13 @@
+GET http://localhost:3000
+
+###
+GET http://localhost:3000/people
+
+###
+GET http://localhost:3000/people/605c6a9b57af4d6ab8c6a597
+
+###
+POST http://localhost:3000/people
+
+###
+PATCH http://localhost:3000/people/605c6a9b57af4d6ab8c6a597
